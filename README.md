@@ -1,1 +1,0 @@
-# optcg-deck
